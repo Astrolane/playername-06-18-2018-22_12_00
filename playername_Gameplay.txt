@@ -1,0 +1,609 @@
+Your game play information for Pokemon Go
+
+Avatar items:
+	Diagonal Tee
+	Pikachu Pullover
+	Future Specs
+	Future Specs
+Start date: 07/14/2016
+Level: 40
+Total XP: 45849161
+Pokecoin: 107
+Stardust: 3512188
+Distance walked: 6094.446289 km
+Buddy nickname: Chansey
+Pokemon in your collection:
+	Kingdra	(!Horsea)
+	Shuckle
+	Porygon
+	Staryu
+	Vaporeon	(!100?100A)
+	Shellder
+	Absol
+	Wailmer
+	Staryu
+	Pikachu
+	Combusken
+	Surskit
+	Stantler	(Stantler93)
+	Hitmonlee	(Hitmonlee91)
+	Rhyhorn	(95)
+	Lugia	
+	Snorunt
+	Kabutops
+	Wailord
+	Feebas	(Feebas82)
+	Lapras
+	Cleffa
+	Skarmory
+	Golduck	(Psyduck97)
+	Seel
+	Pinsir
+	Weepinbell
+	Magikarp
+	Swellow
+	Numel	(Numel92)
+	Rayquaza	(98)
+	Ursaring
+	Staryu	(Staryu89)
+	Nidoran (male)
+	Machamp
+	Doduo	(98)
+	Seviper
+	Delibird
+	Raichu
+	Sneasel
+	Sudowoodo
+	Beedrill	(84)
+	Pupitar
+	Staryu
+	Kyogre
+	Magikarp
+	Sunflora
+	Pidgeot	(Pidgeot97)
+	Beldum
+	Feraligatr	(Totodile89)
+	Sandslash	(Sandshrew98)
+	Magikarp
+	Exeggutor	(89??100A)
+	Entei
+	Shellder
+	Raikou
+	Plusle
+	Metagross	(98)
+	Oddish
+	Typhlosion	(Cyndaquil93)
+	Dodrio	(Dodrio98)
+	Meganium	(Chikorita82)
+	Groudon	(98?)
+	Aerodactyl	(Aerodactyl95)
+	Skitty
+	Aron	(95)
+	Shellder
+	Elekid
+	Corphish	(Corphish95)
+	Totodile
+	Sudowoodo
+	Elekid
+	Milotic	(93)
+	Flareon	(Eevee96)
+	Absol	(!Absol)
+	Mr. Mime
+	Moltres
+	Magikarp
+	Articuno	(Articuno95)
+	Pichu
+	Dewgong	(Seel87)
+	Abra	(Abra95)
+	Poliwag	(Poliwag96)
+	Carvanha
+	Seviper
+	Suicune
+	Surskit
+	Aerodactyl
+	Magikarp
+	Omanyte
+	Wailmer
+	Magikarp	(!Magikarp)
+	Kirlia
+	Seel
+	Piloswine
+	Totodile	(!Totodile)
+	Flaaffy
+	Hariyama
+	Spheal
+	Jolteon	(Eevee93)
+	Lugia	(95)
+	Spoink	(Spoink98)
+	Geodude	(98)
+	Yanma	(98)
+	Baltoy	(87)
+	Glalie
+	Dratini
+	Slakoth
+	Magikarp
+	Espeon	(Sakura)
+	Staryu
+	Metapod	(Caterpie86)
+	Vulpix
+	Voltorb	(98)
+	Mawile
+	Shellder
+	Remoraid
+	Shellder
+	Mareep
+	Seel	(93)
+	Golem	(93roca100B)
+	Magikarp
+	Totodile
+	Delibird
+	Wigglytuff	(96?100B)
+	Kabutops	(93)
+	Flareon	(!100?100A)
+	Zapdos	(nivel40)
+	Shuppet
+	Electabuzz	(Electabuzz98)
+	Golbat
+	Tentacool	(Tentacool90)
+	Parasect	(Parasect96)
+	Ditto	(Ditto96)
+	Wailmer
+	Castform	(Castform93)
+	Granbull	(98??97C)
+	Wailmer
+	Cloyster	(91?99A)
+	Feraligatr	(98?73A)
+	Tangela
+	Sentret
+	Loudred
+	Tangela
+	Lugia	(93)
+	Omanyte
+	Makuhita	(98)
+	Duskull
+	Seaking	(!100??94B)
+	Spheal	(91)
+	Omanyte	(Omanyte0)
+	Togepi
+	Wailmer	(Wailmer93)
+	Pikachu
+	Magby	(Magby93)
+	Moltres
+	Lugia	(93)
+	Blissey
+	Venomoth	(Venonat91)
+	Shellder
+	Ninetales	(Vulpix90)
+	Spheal
+	Lapras
+	Marill	(Marill95)
+	Zapdos
+	Charmeleon
+	Larvitar
+	Marill
+	Scizor	(Scyther92)
+	Croconaw
+	Torchic
+	Magikarp
+	Forretress
+	Growlithe	(Growlithe98)
+	Aipom	(98??79B)
+	Igglybuff
+	Aron
+	Bulbasaur	(95)
+	Tangela
+	Dratini
+	Alakazam	(Abra84)
+	Ho-oh	(Ho-Oh98)
+	Grovyle	(93)
+	Qwilfish
+	Shellder
+	Blissey
+	Magikarp
+	Exeggutor	(Exeggcute89)
+	Phanpy
+	Tyranitar	(96?)
+	Shellder
+	Kyogre
+	Magneton	(!100?100B)
+	Walrein
+	Omanyte
+	Raichu
+	Wailord	(Wailmer93)
+	Raikou
+	Poliwhirl
+	Bellsprout
+	Swinub	(Swinub90)
+	Articuno
+	Farfetch'd
+	Magikarp
+	Rayquaza	(84)
+	Plusle	(98)
+	Mewtwo	(86)
+	Altaria	(Swablu98)
+	Alakazam	(98?87A)
+	Gyarados	(87?)
+	Farfetch'd
+	Taillow	(!Taillow)
+	Pichu
+	Machamp	(Machop93)
+	Kingler	(Krabby93)
+	Ampharos	(Ampharos)
+	Pikachu	(Pikachu88)
+	Ho-oh
+	Magikarp
+	Arcanine	(96)
+	Gyarados	(Magikarp96)
+	Plusle
+	Cloyster	(Shellder84)
+	Arcanine	(Growlithe82)
+	Shellder
+	Psyduck
+	Gengar	(!Gengar)
+	Bagon
+	Shelgon
+	Carvanha
+	Pikachu	(Pikachu91)
+	Magmar	(Magby98)
+	Pikachu
+	Psyduck
+	Corphish
+	Magikarp
+	Jynx	(98)
+	Wooper
+	Chinchou
+	Mr. Mime	(Mr. Mime93)
+	Wailmer
+	Chimecho
+	Banette	(Banette91)
+	Baltoy	(!Baltoy)
+	Venonat	(Venonat96)
+	Luvdisc
+	Wailmer
+	Gastly
+	Plusle
+	Mudkip
+	Gyarados	(Gyarados71)
+	Whismur
+	Aerodactyl	(Aerodactyl91)
+	Doduo
+	Omastar	(82)
+	Latios	(Latios91)
+	Aggron
+	Eevee	(95)
+	Murkrow
+	Latias
+	Chansey
+	Slugma
+	Horsea
+	Cacturne	(Cacturne98)
+	Pikachu
+	Latias
+	Murkrow	(Murkrow98)
+	Chinchou	(95)
+	Teddiursa
+	Swablu	(98)
+	Vibrava	(95)
+	Articuno	(Articuno98)
+	Vileplume	(Oddish93)
+	Electrode	(!100??93D)
+	Chansey	(Chansey95)
+	Omanyte
+	Seedot	(93)
+	Pikachu	(Pikachu80)
+	Bulbasaur	(95)
+	Natu
+	Manectric
+	Mr. Mime	(98)
+	Taillow	(98)
+	Pikachu
+	Pidgey	(Pidgey0)
+	Scyther
+	Magikarp
+	Kyogre	(Kyogre93)
+	Carvanha
+	Girafarig	(Girafarig82)
+	Magikarp
+	Gyarados	(agua)
+	Squirtle
+	Machop
+	Mankey
+	Mewtwo
+	Meowth	(98)
+	Totodile
+	Rhydon	(Rhyhorn93)
+	Aggron	(Aron71)
+	Seaking	(Goldeen96)
+	Tyrogue
+	Shroomish
+	Nosepass	(91)
+	Aipom	(?98???)
+	Zigzagoon	(Zigzagoon93)
+	Chikorita
+	Surskit
+	Gyarados	(93 agua)
+	Wobbuffet
+	Masquerain
+	Eevee	(95)
+	Flaaffy
+	Kingdra	(98???94C)
+	Mantine
+	Shellder
+	Poliwag
+	Ninetales	(Vulpix9193)
+	Wailmer	(Wailmer98)
+	Groudon
+	Wailmer
+	Lapras
+	Wailmer
+	Kingler	(Krabby95)
+	Abra	(98)
+	Exeggutor	(89)
+	Nuzleaf	(Seedot93)
+	Raichu
+	Lanturn	(98)
+	Exploud	(Whismur93)
+	Paras
+	Smoochum	(Smoochum91)
+	Machamp	(98)
+	Taillow
+	Corphish
+	Rapidash	(91??93C)
+	Tyranitar	(98)
+	Lileep	(98)
+	Doduo
+	Feebas
+	Lapras
+	Jynx	(95)
+	Armaldo
+	Carvanha	(93)
+	Scizor	(Scyther90)
+	Tentacool	(98)
+	Lotad
+	Alakazam	(!100?100A)
+	Cloyster
+	Grumpig
+	Remoraid
+	Cacnea
+	Spheal
+	Parasect	(Paras89)
+	Wailmer
+	Vaporeon	(87?92A)
+	Shiftry	(Seedot95)
+	Dratini	(92)
+	Shuppet	(!Shuppet)
+	Pikachu
+	Pidgey
+	Hitmonchan
+	Houndoom	(!100???)
+	Girafarig
+	Tyranitar	(87?)
+	Tyranitar	(98?)
+	Shellder
+	Whismur	(95)
+	Golem	(84roca100B)
+	Dragonite	(Dratini96)
+	Shellder
+	Stantler
+	Sunkern	(95)
+	Pikachu	(95)
+	Spheal
+	Carvanha
+	Azurill
+	Spheal
+	Slugma	(Slugma95)
+	Magneton	(Magnemite92)
+	Onix	(Onix96)
+	Suicune
+	Squirtle
+	Shellder
+	Cacnea	(!Cacnea)
+	Delibird	(Delibird83)
+	Chansey	(98)
+	Hariyama	(!Hariyama)
+	Raichu	(Pikachu89)
+	Hoppip
+	Magikarp
+	Dunsparce
+	Pineco
+	Golduck	(Golduck9395)
+	Rayquaza	(93)
+	Charizard	(Charmander93)
+	Lickitung
+	Diglett	(93)
+	Barboach
+	Tentacruel	(Tentacool90)
+	Wurmple
+	Snorlax	(89??96A)
+	Manectric
+	Cloyster
+	Zapdos
+	Swinub	(Swinub82)
+	Aron	(95)
+	Cloyster	(Shellder85)
+	Sharpedo
+	Krabby	(Krabby0)
+	Primeape	(Mankey98)
+	Ledian
+	Pikachu
+	Feebas
+	Pichu
+	Wingull	(95)
+	Omastar	(Omanyte90)
+	Moltres	(Moltres93)
+	Xatu	(!100??77B)
+	Poliwrath	(Poliwhirl86)
+	Starmie	(Staryu84)
+	Girafarig
+	Roselia	(93)
+	Mawile
+	Luvdisc
+	Machoke
+	Moltres	(KFC)
+	Sealeo	(Spheal83)
+	Magikarp
+	Mr. Mime	(95)
+	Omanyte
+	Blissey	(Chansey82,84)
+	Raticate	(Rattata96)
+	Numel
+	Blaziken	(Torchic91)
+	Tyranitar	(91?)
+	Zigzagoon	(Zigzagoon96)
+	Aipom	(!Aipom)
+	Aron
+	Houndour	(95)
+	Taillow
+	Wailmer
+	Gengar	(Gastly93)
+	Treecko	(93)
+	Piloswine	(Piloswine93)
+	Rhyhorn	(98)
+	Mewtwo	(Mewtwo84)
+	Pikachu
+	Shellder
+	Ho-oh
+	Cloyster
+	Furret
+	Ekans	(!Ekans)
+	Blissey	(Chansey80)
+	Granbull	(0)
+	Mudkip
+	Latios
+	Roselia	(98)
+	Slowking	(96??99A)
+	Krabby	(Krabby95)
+	Aron
+	Spearow	(98)
+	Wailmer
+	Sceptile	(Treecko93)
+	Luvdisc	(93)
+	Lanturn	(Chinchou95)
+	Mareep
+	Venusaur
+	Pineco	(98)
+	Dusclops
+	Metang	(95)
+	Exeggcute	(Exeggcute98)
+	Miltank
+	Slaking
+	Stantler
+	Sentret	(98)
+	Nidorina
+	Ledyba	(Ledyba77)
+	Pupitar
+	Shellder
+	Mankey	(Mankey98)
+	Entei
+	Shellder
+	Clefable	(Cleffa96)
+	Porygon
+	Gligar	(98)
+	Volbeat	(95)
+	Magikarp	(98)
+	Blissey
+	Taillow
+	Lapras	(80?97B)
+	Psyduck	(Psyduck93)
+	Wailmer
+	Wooper
+	Snubbull
+	Venusaur
+	Jigglypuff	(Jigglypuff98)
+	Wailmer	(91)
+	Torchic	(95)
+	Hitmonlee	(Hitmonlee88)
+	Tentacool	(!Tentacool)
+	Barboach
+	Lugia	(93)
+
+You have hatched 2131 and currently have 9 eggs:
+	Egg 1: 0 / 2.0 km
+	Egg 2: 0 / 2.0 km
+	Egg 3: 0 / 2.0 km
+	Egg 4: 0 / 2.0 km
+	Egg 5: in incubator - 0.58 / 2.0 km
+	Egg 6: 0 / 2.0 km
+	Egg 7: 0 / 2.0 km
+	Egg 8: 0 / 2.0 km
+	Egg 9: 0 / 2.0 km
+
+You have 4 incubators not in use
+
+You have 1468 items:
+	Razz berry: 4
+	Nanab berry: 2
+	Pinap berry: 30
+	Golden razz berry: 62
+	Revive: 105
+	Max revive: 146
+	Sun stone: 4
+	King's rock: 4
+	Metal coat: 4
+	Dragon scale: 5
+	Up-grade: 4
+	Lure: 42
+	Raid pass: 0
+	Raid pass (paid): 23
+	Star pieces: 49
+	Poke balls: 274
+	Great balls: 10
+	Ultra balls: 194
+	Potion: 27
+	Super potion: 9
+	Hyper potion: 23
+	Max potion: 197
+	Egg incubator (unlimited use): 1
+	Egg incubator: 4
+	Super incubator: 0
+	Incense: 12
+	Rare candy: 119
+	Lucky egg: 38
+	Fast TM: 52
+	Charged TM: 24
+
+You have 40 medals:
+	Badge: km walked: : 6094
+	Badge: Register X Kanto region Pokemon in the Pokedex. where X is : 149
+	Badge: Register X Pokemon first discovered in the Johto region to the Pokedex. where X is : 95
+	Badge: Register X Pokemon first discovered in the Hoenn region to the Pokedex. where X is : 116
+	Badge: Catch X Pokemon. where X is : 99138
+	Badge: Evolve X Pokemon. where X is : 8154
+	Badge: Hatch X Eggs. where X is : 2131
+	Badge: Encounter X Pokemon. where X is : 160284
+	Badge: Visit X PokeStops. where X is : 90871
+	Badge: Pokeball thrown: : 190311
+	Badge: Catch X big Magikarp. where X is : 241
+	Badge: Win X Gym battles. where X is : 24985
+	Badge: Train X times. where X is : 2935
+	Badge: Raise X total Gym Prestige! where X is : 1642827
+	Badge: Reduce X total Gym Prestige! where X is : 8604000
+	Badge: Catch X Normal-type Pokemon. where X is : 38543
+	Badge: Catch X Fighting-type Pokemon. where X is : 7400
+	Badge: Catch X Flying-type Pokemon. where X is : 23605
+	Badge: Catch X Poison-type Pokemon. where X is : 13090
+	Badge: Catch X Ground-type Pokemon. where X is : 8173
+	Badge: Catch X Rock-type Pokemon. where X is : 5415
+	Badge: Catch X Bug-type Pokemon. where X is : 3433
+	Badge: Catch X Ghost-type Pokemon. where X is : 1974
+	Badge: Catch X Steel-type Pokemon. where X is : 1426
+	Badge: Catch X Fire-type Pokemon. where X is : 8816
+	Badge: Catch X Water-type Pokemon. where X is : 13156
+	Badge: Catch X Grass-type Pokemon. where X is : 3931
+	Badge: Catch X Electric-type Pokemon. where X is : 3912
+	Badge: Catch X Psychic-type Pokemon. where X is : 7171
+	Badge: Catch X Ice-type Pokemon. where X is : 933
+	Badge: Catch X Dragon-type Pokemon. where X is : 485
+	Badge: Catch X Dark-type Pokemon. where X is : 3916
+	Badge: Catch X Fairy-type Pokemon. where X is : 6832
+	Badge: Catch X tiny Rattata. where X is : 729
+	Badge: Catch X Pikachu. where X is : 563
+	Badge: raid battles won: : 250
+	Badge: Win X Legendary Raids. where X is : 282
+	Badge: berries fed: : 41219
+	Badge: hours defended: : 33287
+	Badge: challenge quests: : 1403
+Your notification game settings: 
+	Email opt-in: true
+	Push notification for Pokemon's return: true
+	Push notification for low Pokemon motivation: true

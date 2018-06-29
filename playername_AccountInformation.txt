@@ -1,0 +1,8 @@
+Your account information
+
+User name: username
+Email: usermail@provider.com
+Account locale: es-ES
+You have the following linked accounts:
+	FACEBOOK: usermail@provider.com
+	GOOGLE: usermail@provider.com
